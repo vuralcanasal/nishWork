@@ -1,6 +1,8 @@
 # nishWork
 it is just a test repository Backend: SpringBoot / Frontend: Reactjs
 
+Tip: Before running the frontend part (React), type "run install" on the terminal and run it to install "node_modules"
+
 CUSTOMER:
 
 POST POST/api/addCustomers
